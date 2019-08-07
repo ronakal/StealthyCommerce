@@ -1,7 +1,7 @@
 # Stealthy Commerce
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ronakal/StealthyCommerce/blob/master/WikiAssets/Logo.jfif">
+  <img width="474" height="433" src="https://github.com/ronakal/StealthyCommerce/blob/master/WikiAssets/Logo.jfif">
 </p>
 
 ## About
